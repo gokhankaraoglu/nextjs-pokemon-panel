@@ -1,6 +1,6 @@
-# Vite TypeScript + React Project Deployment Guide
+# TypeScript + Nextjs Project Deployment Guide
 
-This guide will walk you through the steps to deploy your Vite TypeScript + React project to a production environment.
+This guide will walk you through the steps to deploy your TypeScript + Next project to a production environment.
 
 ## Prerequisites
 
@@ -21,4 +21,5 @@ This will create a dist directory containing your compiled and minified assets.
 ## Environments
 
 NEXT_PUBLIC_POKEMON_API_URL = https://pokeapi.co/api/v2
+
 NEXT_PUBLIC_PAGE_ITEM_LIMIT = 10
